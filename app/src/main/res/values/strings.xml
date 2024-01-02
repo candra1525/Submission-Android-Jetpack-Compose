@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Dicoding Reviewer Submission Jetpack Compose</string>
+    <string name="search">Search Reviewer Name</string>
+    <string name="about_dev_description">Hello Everyone,
+        \nIntroduce my self, my name is Candra. I\'am a student at Multi Data Palembang University from Faculty of Computer Science and Enginnering, Informatics.\n\nCurrently, I\'am at 5th semester and following Bangkit Academy led by Google, Tokopedia, Gojek, &amp; Traveloka - Mobile Development (Android) program. I learn using an interactive learning platform, namely Dicoding Indonesia.
+        \n\nEmail\t:\tcandraandi2003@gmail.com
+        \n\nThank You</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="about">About</string>
+    <string name="title_detail_reviewer">Detail Reviewer</string>
+    <string name="background_detail">Background Doodle Detail</string>
+    <string name="back_to_home">Back To Home</string>
+    <string name="photo_reviewer">Photo Reviewer</string>
+    <string name="remove_fav">Remove Favorite</string>
+    <string name="add_fav">Add Favorite</string>
+    <string name="favorite_list">FavoriteList</string>
+    <string name="reviewer_list">ReviewerList</string>
+    <string name="no_item">No items found</string>
+    <string name="profile_dev">Profile Developer</string>
+    <string name="name_dev">Candra</string>
+    <string name="learning_path">Bangkit Academy - Mobile Development</string>
+    <string name="desc_title">Description : </string>
+    <string name="sosmed_title">Social Media : </string>
+    <string name="linkedin_title">LinkedIn</string>
+    <string name="instagram_title">Instagram</string>
+    <string name="logo_medsos">Logo Social Media</string>
+    <string name="search_bar">Search Bar</string>
+    <string name="btn_clear">Button Clear</string>
+    <string name="ic_verify">Icon Verify</string>
+    <string name="ic_dicoding_reviewer">Logo Dicoding Reviewer</string>
+    <string name="about_dev">About Developer</string>
+    <string name="about_page">about_page</string>
+
+    <!-- Testing -->
+    <string name="photo_tag">photo_reviewer</string>
+    <string name="name_tag">name_reviewer</string>
+    <string name="job_tag">job_reviewer</string>
+    <string name="fav_tag">fab_favorite</string>
+
+
+</resources>
